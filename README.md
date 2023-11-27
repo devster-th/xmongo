@@ -3,10 +3,10 @@ Easier working with mongodb in node.js
 
 This thing help working with mongodb easier, like you can do:
 
-//in your mainProgram.js
+//in your mainProgram.js  
 const XD = require('./xmongo3.js')
 
-//get data from mongodb
+//get data from mongodb  
 let data = await XD.$({find:{country:/thailand/i}, from:'xdb.countries'})
 
 so it's more like natural language, unlike the mongodb's headache style of command especially when you have little complex of the thing.
