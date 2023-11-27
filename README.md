@@ -1,5 +1,5 @@
 # xmongo
-Easier working with mongodb
+Easier working with mongodb in node.js
 
 This thing help working with mongodb easier, like you can do:
 
