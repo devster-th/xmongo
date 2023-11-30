@@ -1,0 +1,1 @@
+dev more on rights, versioning, security, etc.
